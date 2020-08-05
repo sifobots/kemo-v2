@@ -1,1 +1,2 @@
-# kemo-v2
+# Elenore
+Elenore - Multi-use Discord Bot.
